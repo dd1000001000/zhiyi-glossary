@@ -1,0 +1,5 @@
+# en-fr corrections (English candidates -> French).
+# All lines of a word here replace all its senses in base/en-fr.tsv.
+# Columns (tab-separated): word, reading (empty), part of speech, translation, note (optional).
+# Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
+word	reading	pos	translation	note

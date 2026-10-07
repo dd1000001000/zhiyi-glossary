@@ -1,0 +1,56 @@
+name: 翻译纠错 / Translation fix
+description: 报告语言包里错误或不好的翻译 / Report a wrong or poor translation
+title: "[翻译] "
+labels: ["translation"]
+body:
+  - type: input
+    id: word
+    attributes:
+      label: 词 / Word
+      placeholder: 行
+    validations:
+      required: true
+  - type: input
+    id: reading
+    attributes:
+      label: 读音（中文词，拼音，可不填）/ Reading (Chinese words, pinyin, optional)
+      placeholder: hang
+  - type: dropdown
+    id: pack
+    attributes:
+      label: 语言包 / Pack
+      options:
+        - zh-en（中文 → 英语）
+        - zh-ja（中文 → 日语）
+        - zh-ko（中文 → 韩语）
+        - zh-fr（中文 → 法语）
+        - zh-de（中文 → 德语）
+        - zh-es（中文 → 西班牙语）
+        - zh-ru（中文 → 俄语）
+        - en-zh（英文 → 中文）
+        - en-ja（英文 → 日语）
+        - en-ko（英文 → 韩语）
+        - en-fr（英文 → 法语）
+        - en-de（英文 → 德语）
+        - en-es（英文 → 西班牙语）
+        - en-ru（英文 → 俄语）
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: 现在显示的翻译 / Current translation
+      placeholder: n. row · n. line
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议改成（每行一个义项：词性 译文）/ Suggested senses (one per line: part of speech, translation)
+      placeholder: |
+        n. row
+        n. bank
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 理由（可选）/ Why (optional)

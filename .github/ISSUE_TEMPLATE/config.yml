@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 知意输入法 / Zhiyi IME
+    url: https://github.com/dd1000001000/zhiyi_ime/issues
+    about: 输入法本身的问题请到主项目反馈 / Report problems with the IME itself in the main project

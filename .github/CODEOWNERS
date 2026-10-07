@@ -1,0 +1,3 @@
+# Reviewers. Add a reviewer for a language next to its packs, e.g.
+#   /corrections/*-ja.tsv  @dd1000001000 @japanese-reviewer
+*  @dd1000001000
