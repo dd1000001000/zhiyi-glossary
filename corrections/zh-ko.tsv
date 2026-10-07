@@ -3,3 +3,8 @@
 # Columns (tab-separated): word, reading (pinyin, xian:zai), part of speech, translation, note (optional).
 # Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
 word	reading	pos	translation	note
+是吗	shi:ma	int.	그래요
+咐	fu	v.	분부하다
+是吧	shi:ba	part.	그렇죠
+耕地面积	geng:di:mian:ji	n.	경지 면적
+体魄	ti:po	n.	체격

@@ -1,72 +1,72 @@
 {
   "zh-en": {
-    "version": 1,
-    "content": "75511f14e3566334117b7a491ab453a35211df853d992699c7386e82d876b0f8",
-    "entries": 16793
+    "version": 2,
+    "content": "4388b086e5fb97e9e2af3a8e459be870863ae1dcf48ba6ac001f0fd5cc68d791",
+    "entries": 40789
   },
   "zh-ja": {
-    "version": 1,
-    "content": "f5697c38367f746cd2a89499d5c5364d60c0c9b4e9893719a7d3c2cc34ea5abe",
-    "entries": 16821
+    "version": 2,
+    "content": "07bc7ff8b074ee22a1c015174023a61ec5180ca054d467efd676bf2db35da897",
+    "entries": 40834
   },
   "zh-ko": {
-    "version": 1,
-    "content": "57d860b1a66de42f10b663c817b8971d5666a6f8b7035db055f578d8d71b5e72",
-    "entries": 16821
+    "version": 2,
+    "content": "2623dd57cb09fe8fe9351716f4a1d9a9c201fcf07229a22a8d5444d748d61eb1",
+    "entries": 40827
   },
   "zh-fr": {
-    "version": 1,
-    "content": "3c8e58b8bf41c335450fde4e7a0475485432dc8fceb04cd96f0e7dcf35e74310",
-    "entries": 16774
+    "version": 2,
+    "content": "e42a88dd91c2d4269f6ae0ccc63fdfd16b0451c4c1d6fe323af25d5615249f05",
+    "entries": 40715
   },
   "zh-de": {
-    "version": 1,
-    "content": "a36045b6e43aa9a6e5da40dd832133764a15f6a5c447260960496ea6f563f10b",
-    "entries": 16788
+    "version": 2,
+    "content": "f3c4c48971c0080bc3cece641ab08511275388ce7f477c2e7b2a0580eadc0b41",
+    "entries": 40781
   },
   "zh-es": {
-    "version": 1,
-    "content": "acfd8494702bdcc9790e1d8b303e1e891eeb067f8a17432cec76761c1d619c32",
-    "entries": 16789
+    "version": 2,
+    "content": "e27c3b5684467fa81644ce2885feede1afb560eff3152dc6d90c86d18528d3dd",
+    "entries": 40724
   },
   "zh-ru": {
-    "version": 1,
-    "content": "03eeadd4b39a586f577d85e7662103c5a79c8531609e68e2c06d6ae82f0d661a",
-    "entries": 16763
+    "version": 2,
+    "content": "7a6950b07666a7bc4186429ee6509640896d61666617c8d2b2094f981b640848",
+    "entries": 40739
   },
   "en-zh": {
-    "version": 1,
-    "content": "c35666d5f46621d040a1da32563e3b20369a7251a8e46636111e7068a64d1c69",
-    "entries": 7790
+    "version": 2,
+    "content": "4efaaba4e4972f03d0b8c578789bc9d6c239382f988db6ac38aa51666d93d21d",
+    "entries": 21428
   },
   "en-ja": {
-    "version": 1,
-    "content": "b1152a0203a924ca00280f43649a2ab0583b766a0e88b872354d37801e25edd1",
-    "entries": 7790
+    "version": 2,
+    "content": "9247709e77e3e94248ce484516019d31de65a84e9c5c6c34dc6528b3c96e8400",
+    "entries": 21461
   },
   "en-ko": {
-    "version": 1,
-    "content": "d44f65f36e536d40bf324d3cf40abc27a986ef30f1b9433dc4627a020b79dadc",
-    "entries": 7785
+    "version": 2,
+    "content": "4c63a99f32c332c4d3c95f0926dd83a56b4dd4ea79b1759895282f6f7a563a0a",
+    "entries": 21488
   },
   "en-fr": {
-    "version": 1,
-    "content": "1cfa983375ae15dc4a4e5073d63c14c1deff4fa9c8b192d14301ccc835ac3493",
-    "entries": 7798
+    "version": 2,
+    "content": "48576bde736007903b3cbb2f74f3c7cf43bae6e3c6fd6ddb25a3935ebd472a04",
+    "entries": 21524
   },
   "en-de": {
-    "version": 1,
-    "content": "5360e048f1d4b5f500aa6af8e0d6c6d7ca194173e2c1656578abd3066fb39e1c",
-    "entries": 7799
+    "version": 2,
+    "content": "9c58eaa3f812d49d72598de7dde176525f65020962a82b6d17261acf537e82b7",
+    "entries": 21523
   },
   "en-es": {
-    "version": 1,
-    "content": "041db29a1df3ab59e61d6168d3d8fcf8c1649ceacef9152b7782fbf8bb2a4fb1",
-    "entries": 7800
+    "version": 2,
+    "content": "40ed78fcb692b7d525e74775524e20bc062a2bbcc6ea36ce3139cc15b3088a88",
+    "entries": 21524
   },
   "en-ru": {
-    "version": 1,
-    "content": "12a7d53f638b85da4266921d46711fdbda7ffd35b22eeb3ded3b61222b7efbc7",
-    "entries": 7786
+    "version": 2,
+    "content": "8966b0ee75b4ce66b01805a2180038fc44d0221ecc55c36528018b8343ccff34",
+    "entries": 21461
   }
 }

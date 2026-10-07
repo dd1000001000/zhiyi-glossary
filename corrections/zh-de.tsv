@@ -3,3 +3,7 @@
 # Columns (tab-separated): word, reading (pinyin, xian:zai), part of speech, translation, note (optional).
 # Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
 word	reading	pos	translation	note
+是吗	shi:ma	int.	wirklich
+中日关系	zhong:ri:guan:xi	n.	China-Japan-Beziehungen
+以次充好	yi:ci:chong:hao	v.	Schund als Qualität verkaufen
+太高了吧	tai:gao:le:ba	int.	zu hoch, nicht wahr

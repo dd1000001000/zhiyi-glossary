@@ -3,3 +3,15 @@
 # Columns (tab-separated): word, reading (pinyin, xian:zai), part of speech, translation, note (optional).
 # Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
 word	reading	pos	translation	note
+隔	ge	v.	separar
+隔	ge	prep.	cada
+粉丝	fen:si	n.	fans
+粉丝	fen:si	n.	fideos de soja
+是吗	shi:ma	int.	en serio
+是吧	shi:ba	part.	verdad
+岂不是	qi:bu:shi	adv.	acaso no
+对吧	dui:ba	part.	verdad
+行不行	xing:bu:xing	v.	vale o no
+凉拌	liang:ban	v.	aliñar en frío
+凉拌	liang:ban	int.	da igual
+太高了吧	tai:gao:le:ba	int.	demasiado alto, verdad

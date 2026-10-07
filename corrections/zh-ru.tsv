@@ -3,3 +3,17 @@
 # Columns (tab-separated): word, reading (pinyin, xian:zai), part of speech, translation, note (optional).
 # Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
 word	reading	pos	translation	note
+惠普	hui:pu	n.	HP
+穴	xue	n.	дыра
+穴	xue	n.	акупунктурная точка
+咐	fu	v.	приказывать
+是吧	shi:ba	part.	не так ли
+都城	du:cheng	n.	столица
+对吧	dui:ba	part.	не так ли
+哭笑不得	ku:xiao:bu:de	adj.	и смех и грех
+四下	si:xia	adv.	вокруг
+集贸市场	ji:mao:shi:chang	n.	рынок
+呼出	hu:chu	v.	выдохнуть
+闷闷	men:men	adj.	подавленный
+酒酿	jiu:niang	n.	рисовое вино
+太高了吧	tai:gao:le:ba	int.	слишком высоко, не так ли

@@ -3,3 +3,33 @@
 # Columns (tab-separated): word, reading (pinyin, xian:zai), part of speech, translation, note (optional).
 # Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
 word	reading	pos	translation	note
+是不是	shi:bu:shi	adv.	whether or not
+有没有	you:mei:you	v.	whether there is
+有无	you:wu	n.	presence or absence
+能不能	neng:bu:neng	v.	whether one can
+五六	wu:liu	num.	five or six
+三农	san:nong	n.	three rural issues
+是吗	shi:ma	int.	really
+早晚	zao:wan	adv.	sooner or later
+早晚	zao:wan	n.	morning and evening
+成败	cheng:bai	n.	success or failure
+两三	liang:san	num.	two or three
+胜负	sheng:fu	n.	victory or defeat
+二三	er:san	num.	two or three
+一两	yi:liang	num.	one or two
+或多或少	huo:duo:huo:shao	adv.	more or less
+出家	chu:jia	v.	become a monk or nun
+一两个	yi:liang:ge	num.	one or two
+迟早	chi:zao	adv.	sooner or later
+可不可以	ke:bu:ke:yi	v.	may I
+六七	liu:qi	num.	six or seven
+对吧	dui:ba	part.	right
+哭笑不得	ku:xiao:bu:de	adj.	between laughter and tears
+有意无意	you:yi:wu:yi	adv.	consciously or not
+惚	hu	adj.	in a trance
+惚	hu	adj.	dazed
+该不该	gai:bu:gai	part.	whether one should
+两三个	liang:san:ge	num.	two or three
+输赢	shu:ying	n.	winning or losing
+多多少少	duo:duo:shao:shao	adv.	more or less
+十几年来	shi:ji:nian:lai	adv.	for over a decade

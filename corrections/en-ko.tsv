@@ -3,3 +3,5 @@
 # Columns (tab-separated): word, reading (empty), part of speech, translation, note (optional).
 # Part of speech "-" with an empty translation removes the word. See CONTRIBUTING.md.
 word	reading	pos	translation	note
+crab		n.	게
+crab		v.	불평하다
